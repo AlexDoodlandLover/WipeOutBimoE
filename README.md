@@ -33,6 +33,8 @@ Once these requirements are met, the project should be accessible and playable t
 A **controller or keyboard is required** to play.  
 Touch-only input methods are not supported.
 
+## 🐞 Bugs
+Report a bug. The only known bug is that in the credits it says "formerly blixer the gamer now" and I didn't finish that sentence. It's probably because I forgot to put the doom metal cover by lorcan ward which is absolutely present in the console versions coming soon. it's too late to fix this. I'll update it in the next update. Hopefully coming out soon. For now, this won't be updated until I update this project
 ## 👤 Credits
 
 - Original project: *Wipe Out Bimo* by **Filly**
