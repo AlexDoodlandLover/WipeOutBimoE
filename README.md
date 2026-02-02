@@ -1,6 +1,6 @@
-# WipeOutBimo
+# WipeOutBimoE
 
-**WipeOutBimo** is an enhanced and actively maintained version of *Wipe Out Bimo* by Filly.  
+**WipeOutBimoE** is an enhanced and actively maintained version of *Wipe Out Bimo* by Filly.  
 This project focuses on refining the original experience through fixes and gameplay improvements while preserving the core gameplay.
 
 Updates are released regularly when improvements are available, with an emphasis on new stuff and polish.
