@@ -24,7 +24,7 @@ To run **WipeOutBimoE** on supported consoles, the following is required:
 
 - 🔓 A **modded console**
 - 🧩 **Scratch Everywhere** by **Natexs** installed on the device
-- 📁 The `wipeoutbimoefor**consoleabreviation**.sb3` file placed inside the **Scratch Everywhere** folder
+- 📁 The `wipeoutbimoefor(insert console).sb3` file placed inside the **Scratch Everywhere** folder
 
 Once these requirements are met, the project should be accessible and playable through Scratch Everywhere on the supported platform.
 
